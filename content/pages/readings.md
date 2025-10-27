@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,7 +14,7 @@ Bahro, Rudolf. _From Red to Green: Industrialism and Cultural Revolution_. Lond
 
 Barnet, Sylvan. _Writing about Literature._ Boston: Longman, 2002. ISBN:0321104765 (For background on the principles of literature and cinema studies.)
 
-Beuys, Joseph. Artworks. (see examples at [Walker Art Center online exhibit](https://walkerart.org/collections/artists/joseph-beuys))
+Beuys, Joseph. Artworks. (see examples at {{% resource_link "37c6963a-167c-48a6-8e81-260b80b7ddf6" "Walker Art Center online exhibit" %}})
 
 Buchloh, Benjamin H. D. "Beuys: The Twilight of the Idol." _Artforum_ 18/5 (January 1980).
 
@@ -44,16 +42,16 @@ Pinder, John. _The European Union: A Very Short Introduction._ New York: Oxford 
 
 Piper, Andrew. "Project Übermensch:  German Intellectuals Confront Genetic Engineering." _Lingua Franca_ (January 2000): 74-75.
 
-_p.o.v._ "[Aspects of Dogma](https://pov.imv.au.dk/Issue_10/POV_10cnt.html)." 10 (2000).
+_p.o.v._ "{{% resource_link "7b5a32a8-07ad-4307-8dbe-d524fa8fcd16" "Aspects of Dogma" %}}." 10 (2000).
 
 Schulze, Ingo. _Simple Stories._ New York: Knopf. ISBN: 0375405410.
 
-Siegert, Hubertus. _[Berlin Babylon](http://www.imdb.com/title/tt0276819/)._ 2001.
+Siegert, Hubertus. _{{% resource_link "298f914c-702c-42af-a4e5-4e0bb65291a9" "Berlin Babylon" %}}._ 2001.
 
 Sloterdijk, Peter. "Cynicism — The Twilight of False Consciousness." _New German Critiques_ 33, 189-206.
 
 Strauß, Botho. "Idiots of the Immediate." Couples, Passersby: Indianapolis: Hydra, 1996, ISBN 0810112426.
 
-Vinterberg, Thomas. [The Celebration](http://www.imdb.com/title/tt0154420/).  USA Films, 2004. ASIN: B00023P4N8.
+Vinterberg, Thomas. {{% resource_link "08b46a0d-ed1e-4285-ae38-87f5badc3adf" "The Celebration" %}}.  USA Films, 2004. ASIN: B00023P4N8.
 
 Wolf, Christa. _Cassandra._ New York: Farrar, Straus, Giroux, 1984. ISBN: 0374119562.
